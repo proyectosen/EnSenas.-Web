@@ -1099,6 +1099,15 @@ font-size: 22px;
               
            }
            @media(max-width: 576px) {
+
+               .headingcara{
+              width: 200px;
+            }
+
+            .vid{
+              height: 230px;
+              width: 300px;
+             }
              ::-webkit-scrollbar{
                  background-color: #383939;
                  width: .6rem;
